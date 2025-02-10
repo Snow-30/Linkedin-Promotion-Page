@@ -19,9 +19,9 @@ The page emphasizes LinkedIn's core features, such as skill development, network
 📂 **Project Structure**  
 📁 LinkedIn-Promo  
 │── 📂 images  # Images, icons, and other assets  
-│── 📂 styles  # Stylesheets  
-│── 📂 scripts  # JavaScript functionality
-│── 📂 index.html  # The main HTML page
+│── 📂 CSS  # Stylesheets  
+│── 📂 JS  # JavaScript functionality
+│── 📂 mainpage.html  # The main HTML page
 
 📸 **Screenshots**  
 **Homepage**  
