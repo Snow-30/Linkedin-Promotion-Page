@@ -323,13 +323,21 @@ a:hover{
 .container{
     display: flex;
     align-items: center;
-    height: 330px
+    height: 330px;
+    justify-content: center;
+    position: relative;
 }
 .right-arrow-img{
-    margin-right: 20px;
-    margin-left: auto; 
+    position: absolute;
+    right: 5%;
+    bottom: 10%;
+    zoom: 1.5;  
+    cursor: pointer;
 }
 .left-arrow-img{
-    margin-left: 20px; 
-    margin-right: auto; 
+    position: absolute;
+    left: 5%; 
+    bottom: 10%; 
+    zoom: 1.5; 
+    cursor: pointer;
 }
