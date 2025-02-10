@@ -17,7 +17,6 @@ function updateReview() {
 	curr_worksin.innerHTML = `${currentReview.worksin}`;
 	curr_position.innerHTML = `${currentReview.position}`;
     curr_name.innerHTML = `${currentReview.name}`;
-    console.log(id);
 }
 
 setInterval(updateReview, 2500);
