@@ -24,7 +24,9 @@ The page emphasizes LinkedIn's core features, such as skill development, network
 │── 📂 mainpage.html  # The main HTML page
 
 📸 **Screenshots**  
-**Homepage**  
+![Homepage](images/img1)
+![Homepage](images/img2)
+![Homepage](images/img3)
 
 🚀 **How to Run**  
 1. Clone the repository  
