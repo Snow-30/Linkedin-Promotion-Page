@@ -8,7 +8,7 @@ The page emphasizes LinkedIn's core features, such as skill development, network
 🛠️ **Technologies Used**
 - **HTML5** – Structuring the webpage
 - **CSS3** – Styling and layout
-- **JavaScript** – Dynamic functionalities (if any interactive elements are present)
+- **JavaScript** – Dynamic functionalities
 
 🎯 **Features**
 ✅ Responsive design for various screen sizes  
@@ -20,7 +20,7 @@ The page emphasizes LinkedIn's core features, such as skill development, network
 📁 LinkedIn-Promo  
 │── 📂 images  # Images, icons, and other assets  
 │── 📂 styles  # Stylesheets  
-│── 📂 scripts  # JavaScript functionality (if any)  
+│── 📂 scripts  # JavaScript functionality
 │── 📂 index.html  # The main HTML page
 
 📸 **Screenshots**  
@@ -50,5 +50,5 @@ Feel free to fork the repository and submit a pull request if you have suggestio
 📞 **Contact**  
 For any queries, feel free to reach out:
 
-GitHub: [YourUsername](https://github.com/YourUsername)  
-Email: your-email@example.com
+GitHub: [Snow-30](https://github.com/Snow-30)  
+Email: snowyz3007@gmail.com
