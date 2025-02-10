@@ -19,6 +19,6 @@ function updateReview() {
     curr_name.innerHTML = `${currentReview.name}`;
 }
 
-setInterval(updateReview, 2500);
+setInterval(updateReview, 2000);
 
 updateReview();
