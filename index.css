@@ -43,7 +43,7 @@ body {
 	flex: 0;
 	margin-left: 40px;
 	position: relative;
-    cursor: pointer;
+	cursor: pointer;
 }
 .app-name {
 	font-weight: 700;
@@ -109,7 +109,7 @@ body {
 }
 .main-content {
 	display: flex;
-    flex-direction: column;
+	flex-direction: column;
 }
 .features {
 	display: flex;
@@ -128,62 +128,63 @@ body {
 	width: 280px;
 }
 .reviews {
-    margin-top: 150px; 
+	margin-top: 150px;
 	background-color: rgb(229, 229, 229);
-    height: 380px; 
-    text-align: center;
+	height: 380px;
+	text-align: center;
 }
-.key-features{
-    display: flex; 
-    gap: 150px;
-    align-items: center;
-    justify-content: center;
+.key-features {
+	display: flex;
+	gap: 150px;
+	align-items: center;
+	justify-content: center;
 }
-.person-details{
-    margin-top: 40px; 
-    display: flex;
-    color: black;
-    margin-left: 50px; 
-    align-items: center; 
-    margin-right: 50px; 
-    flex-direction: column;
+.person-details {
+	margin-top: 40px;
+	display: flex;
+	color: black;
+	margin-left: 50px;
+	align-items: center;
+	margin-right: 50px;
+	flex-direction: column;
 }
-.person-review{
-    margin-right: 50px; 
-    display: flex; 
-    justify-content: center;
-    align-items: center;
-    margin-left: 50px; 
-    font-weight: 700; 
-    color: #b24020; 
-    font-size: 20px; 
-    margin-top: 100px; 
+.person-review {
+	margin-right: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 50px;
+	font-weight: 700;
+	color: #b24020;
+	font-size: 20px;
+	margin-top: 100px;
 }
-.name,.worksin{
-    margin-bottom: 10px; 
+.name,
+.worksin {
+	margin-bottom: 10px;
 }
-.testimonials{
-    color:#b24020;
-    font-weight: 700;
-    font-size: 24px; 
-    margin-top: 20px; 
+.testimonials {
+	color: #b24020;
+	font-weight: 700;
+	font-size: 24px;
+	margin-top: 20px;
 }
-.footer-cta{
-    margin-top: 100px; 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+.footer-cta {
+	margin-top: 100px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 }
-.cta-heading{
-    color: black; 
-    font-size: 24px; 
-    margin-left: 50px; 
-    margin-right: 50px; 
+.cta-heading {
+	color: black;
+	font-size: 24px;
+	margin-left: 50px;
+	margin-right: 50px;
 }
-.cta{    
-    margin-top: 20px;
-    background-color: #0a66c2;
+.cta {
+	margin-top: 20px;
+	background-color: #0a66c2;
 	border: none;
 	color: white;
 	font-size: 16px;
@@ -194,150 +195,206 @@ body {
 	transition-duration: 0.2s;
 	border-radius: 25px;
 }
-.cta:hover{
-    background-color: #084989;
+.cta:hover {
+	background-color: #084989;
 }
-.footer{
-    background-color: rgb(229, 229, 229);
-    display: flex;
-    margin-top: 100px; 
-    padding-left: 20px; 
-    padding-right: 20px; 
-    padding-top: 40px; 
-    justify-content: space-between;
-    padding-bottom: 40px;
+.footer {
+	background-color: rgb(229, 229, 229);
+	display: flex;
+	margin-top: 100px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 40px;
+	justify-content: space-between;
+	padding-bottom: 40px;
 }
-.footer-logo{
-    display: flex;
-    align-items: center;
-    height: 20px;
+.footer-logo {
+	display: flex;
+	align-items: center;
+	height: 20px;
 }
-.logo-app{
-    height: 28px; 
-    margin-left: -3px; 
+.logo-app {
+	height: 28px;
+	margin-left: -3px;
 }
-.name-app{
-    color:#0a66c2;
-    font-weight: 600;
-    font-size: 20px;
+.name-app {
+	color: #0a66c2;
+	font-weight: 600;
+	font-size: 20px;
 }
-.footer-img{
-    max-width: 100%;
-    max-height: 100%;
+.footer-img {
+	max-width: 100%;
+	max-height: 100%;
 }
-.section{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
+.section {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
 }
-.heading{
-    color: black;
-    font-weight: 600;
-    text-wrap: nowrap;
+.heading {
+	color: black;
+	font-weight: 600;
+	text-wrap: nowrap;
 }
-.options{
-    display: flex;
-    flex-direction: column;
-    gap: 6px; 
-    color: rgb(92, 92, 92);
-    font-weight: 500;
-    text-wrap: nowrap; 
+.options {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	color: rgb(92, 92, 92);
+	font-weight: 500;
+	text-wrap: nowrap;
 }
-.abouts{
-    display: flex;
-    color: black; 
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 40px; 
-    margin-top: 20px;
+.abouts {
+	display: flex;
+	color: black;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 40px;
+	margin-top: 20px;
 }
-.logo-of-app{
-    height: 28px; 
+.logo-of-app {
+	height: 28px;
 }
-.image-of-app{
-    max-width: 100%;
-    max-height: 100%;
+.image-of-app {
+	max-width: 100%;
+	max-height: 100%;
 }
-.name-of-app{
-    font-size: 20px; 
+.name-of-app {
+	font-size: 20px;
 }
-.copyright{
-    font-size: 20px; 
+.copyright {
+	font-size: 20px;
 }
-.op{
-    cursor: pointer;
+.op {
+	cursor: pointer;
 }
-.link{
-    text-decoration: none;
-    color: inherit;
+.link {
+	text-decoration: none;
+	color: inherit;
 }
-.link:hover{
-    text-decoration: none;
-    color: inherit;
+.link:hover {
+	text-decoration: none;
+	color: inherit;
 }
-a{
-    color: inherit;
-    text-decoration: none;
+a {
+	color: inherit;
+	text-decoration: none;
 }
-a:hover{
-    color:#0a66c2;
-    text-decoration: underline;
+a:hover {
+	color: #0a66c2;
+	text-decoration: underline;
 }
-@media (max-width: 750px){
-    .features{
-        flex: 1 1 calc(100%/1); 
+@media (max-width: 750px) {
+	.features {
+		flex: 1 1 calc(100% / 1);
+	}
+	.key-features {
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		gap: 0;
+	}
+}
+@media (max-width: 690px) {
+	.footer {
+		flex-direction: column;
+		align-items: center;
+	}
+	.section {
+		align-items: center;
+		justify-content: center;
+		margin-top: 20px;
+	}
+	.options {
+		align-items: center;
+		justify-content: center;
+	}
+}
+@media (max-width: 630px) {
+	.main-heading,
+	.main-heading-2 {
+		font-size: 25px;
+	}
+	.sub-heading {
+		font-size: 13px;
+		text-wrap: wrap;
+		padding-left: 15px;
+	}
+    .logo {
+		margin-left: 20px;
+	}
+	.app-name {
+		font-size: 20px;
+        width: 95px;
+	}
+	.app-logo {
+		height: 23px;
+        margin-left: 0px;
+	}
+	.join-button,.signin-button {
+		font-size: 14px;
+		height: 40px;
+		width: 80px;
+	}
+    .button-1{
+        right: 130px; 
     }
-    .key-features{
-        flex-wrap: wrap;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-        gap: 0; 
+    .button-2{
+        right: 30px; 
     }
 }
-@media (max-width: 690px){
-    .footer{
-        flex-direction: column;
-        align-items: center;
+@media (max-width: 500px) {
+	.main-heading,
+	.main-heading-2 {
+		font-size: 22px;
+	}
+	.sub-heading {
+		font-size: 12px;
+		text-wrap: wrap;
+		padding-left: 15px;
+	}
+	.logo {
+		margin-left: 20px;
+	}
+	.app-name {
+		font-size: 18px;
+        width: 85px;
+	}
+	.app-logo {
+		height: 21px;
+        margin-left: 0px;
+	}
+	.join-button,.signin-button {
+		font-size: 12px;
+		height: 30px;
+		width: 70px;
+	}
+    .button-1{
+        right: 100px; 
     }
-    .section{
-        align-items: center;
-        justify-content: center;
-        margin-top: 20px;
-    }
-    .options{
-         align-items: center;
-        justify-content: center;
+    .button-2{
+        right: 10px; 
     }
 }
-@media (max-width: 630px){
-    .main-heading,.main-heading-2{
-        font-size: 25px;
-    }
-    .sub-heading{
-        font-size: 13px; 
-        text-wrap: wrap;
-        padding-left: 15px;  
-    }
+.container {
+	display: flex;
+	align-items: center;
+	height: 330px;
+	justify-content: center;
+	position: relative;
 }
-.container{
-    display: flex;
-    align-items: center;
-    height: 330px;
-    justify-content: center;
-    position: relative;
+.right-arrow-img {
+	position: absolute;
+	right: 5%;
+	bottom: 10%;
+	zoom: 1.5;
+	cursor: pointer;
 }
-.right-arrow-img{
-    position: absolute;
-    right: 5%;
-    bottom: 10%;
-    zoom: 1.5;  
-    cursor: pointer;
-}
-.left-arrow-img{
-    position: absolute;
-    left: 5%; 
-    bottom: 10%; 
-    zoom: 1.5; 
-    cursor: pointer;
+.left-arrow-img {
+	position: absolute;
+	left: 5%;
+	bottom: 10%;
+	zoom: 1.5;
+	cursor: pointer;
 }
