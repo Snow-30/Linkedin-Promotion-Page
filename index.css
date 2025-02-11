@@ -350,7 +350,7 @@ a:hover {
 		font-size: 18px;
 	}
 	.sub-heading {
-		font-size: 10px;
+		font-size: 11px;
 		text-wrap: wrap;
 		padding-left: 15px;
         padding-right: 15px;
@@ -367,7 +367,7 @@ a:hover {
         margin-left: 0px;
 	}
 	.join-button,.signin-button {
-		font-size: 12px;
+		font-size: 13px;
 		height: 40px;
 		width: 80px;
 	}
