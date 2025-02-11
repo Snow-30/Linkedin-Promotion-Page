@@ -347,12 +347,13 @@ a:hover {
 @media (max-width: 500px) {
 	.main-heading,
 	.main-heading-2 {
-		font-size: 22px;
+		font-size: 18px;
 	}
 	.sub-heading {
-		font-size: 12px;
+		font-size: 10px;
 		text-wrap: wrap;
 		padding-left: 15px;
+        padding-right: 15px;
 	}
 	.logo {
 		margin-left: 20px;
@@ -367,14 +368,17 @@ a:hover {
 	}
 	.join-button,.signin-button {
 		font-size: 12px;
-		height: 30px;
-		width: 70px;
+		height: 40px;
+		width: 80px;
 	}
     .button-1{
         right: 100px; 
     }
     .button-2{
         right: 10px; 
+    }
+    .reviews{
+        height: 420px; 
     }
 }
 .container {
